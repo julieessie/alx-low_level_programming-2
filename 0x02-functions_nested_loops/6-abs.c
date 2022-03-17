@@ -2,7 +2,7 @@
 
 /**
   * _abs - Computes the value of an integer
-  * @int: integer to be checked
+  * @x: integer to be checked
   *
   * Return: Always 0 (success)
   */
