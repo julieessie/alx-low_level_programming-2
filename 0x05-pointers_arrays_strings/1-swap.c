@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * swap_int - Swaps two integers using dereferencing
- * @a: The first parameter to be swapped
- * @b: The second parameter to be swapped
+ * swap_int - Swaps the value of two integers.
  *
- * Return: Always 0
+ * @a: First pointer argument.
+ * @b: Second pointer argument.
  */
 void swap_int(int *a, int *b)
 {

@@ -1,1 +1,2 @@
-This directory contains pointers arrays and strings in c
+The repository contains pointers and flags coded in c
+

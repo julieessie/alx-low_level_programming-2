@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * _strlen - prints the length of a string
- * @s: the character argument passed
+ * _strlen - Prints length of string.
  *
- * Return: the length of the string
+ * @s: character argument passed.
+ *
+ * Return: The length of string.
  */
 int _strlen(char *s)
 {
@@ -16,12 +17,14 @@ int _strlen(char *s)
 	}
 	return (i);
 }
+
 /**
- * print_rev - prints a string in reverse
- * @s: The pointer to character
+ * print_rev - Prints a string in reverse.
  *
- * return: the value
+ * @s: Set of characters
+ *
  */
+
 void print_rev(char *s)
 {
 	int l;

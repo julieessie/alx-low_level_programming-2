@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * reset_to_98 - changes the value of n to 98 through dereferencing
- * @n: The parameter to be changed
+ * reset_to_98 - Takes a pointer argument and
+ *		 dereferences it's value to 98.
  *
- * Return: Always 0
+ * @n: Pointer argument passed to function.
  */
+
 void reset_to_98(int *n)
 {
 	*n = 98;
